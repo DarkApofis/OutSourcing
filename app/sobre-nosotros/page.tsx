@@ -14,7 +14,7 @@ export default function SobreNosotrosPage() {
               <div>
                 <h2 className="text-2xl font-semibold mb-4">Nuestra Historia</h2>
                 <p className="text-lg mb-6">
-                  Ferless nació en 2010 con la visión de transformar la forma en que las empresas gestionan su talento. Desde entonces, hemos ayudado a cientos de organizaciones a encontrar y desarrollar a los mejores profesionales, impulsando su crecimiento y éxito.
+                  FERELSA SAS nació en 2010 con la visión de transformar la forma en que las empresas gestionan su talento. Desde entonces, hemos ayudado a cientos de organizaciones a encontrar y desarrollar a los mejores profesionales, impulsando su crecimiento y éxito.
                 </p>
                 <h2 className="text-2xl font-semibold mb-4">Nuestra Misión</h2>
                 <p className="text-lg mb-6">
@@ -28,7 +28,7 @@ export default function SobreNosotrosPage() {
               <div className="relative h-[400px]">
                 <Image
                   src="/team-home.png"
-                  alt="Equipo de Ferless"
+                  alt="Equipo de FERELSA SAS"
                   layout="fill"
                   objectFit="cover"
                   className="rounded-lg shadow-lg"
@@ -59,7 +59,7 @@ export default function SobreNosotrosPage() {
         <section className="py-16 bg-blue-600 text-white">
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-3xl font-bold mb-6">Nuestro Equipo</h2>
-            <p className="text-xl mb-12">Conoce a los expertos detrás de Ferless</p>
+            <p className="text-xl mb-12">Conoce a los expertos detrás de FERELSA SAS</p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               {[
                 { name: 'Ana García', role: 'CEO', image: '/ana.png' },

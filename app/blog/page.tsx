@@ -37,7 +37,7 @@ export default function BlogPage() {
       <main className="flex-grow">
         <section className="py-16 bg-gray-50">
           <div className="container mx-auto px-4">
-            <h1 className="text-4xl font-bold mb-12 text-blue-600 text-center">Blog de Ferless</h1>
+            <h1 className="text-4xl font-bold mb-12 text-blue-600 text-center">Blog de FERELSA SAS</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {blogPosts.map((post, index) => (
                 <Link key={index} href={`/blog/${post.slug}`} className="block">

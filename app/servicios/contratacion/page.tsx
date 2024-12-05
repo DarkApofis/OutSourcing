@@ -75,9 +75,9 @@ export default function ContratacionPage() {
             <h2 className="text-3xl font-bold mb-12 text-center text-blue-600">Testimonios</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
-                { name: 'María González', company: 'Tech Innovators S.L.', text: 'El servicio de contratación de Ferless superó nuestras expectativas. Encontraron candidatos excepcionales en tiempo récord.' },
-                { name: 'Carlos Rodríguez', company: 'Finanzas Globales Inc.', text: 'Gracias a Ferless, hemos mejorado significativamente la calidad de nuestras contrataciones. Su equipo es verdaderamente profesional.' },
-                { name: 'Laura Martínez', company: 'EcoSolutions', text: 'El proceso fue fluido y eficiente. Ferless entendió perfectamente nuestras necesidades y cultura empresarial.' },
+                { name: 'María González', company: 'Tech Innovators S.L.', text: 'El servicio de contratación de FERELSA SAS superó nuestras expectativas. Encontraron candidatos excepcionales en tiempo récord.' },
+                { name: 'Carlos Rodríguez', company: 'Finanzas Globales Inc.', text: 'Gracias a FERELSA SAS, hemos mejorado significativamente la calidad de nuestras contrataciones. Su equipo es verdaderamente profesional.' },
+                { name: 'Laura Martínez', company: 'EcoSolutions', text: 'El proceso fue fluido y eficiente. FERELSA SAS entendió perfectamente nuestras necesidades y cultura empresarial.' },
               ].map((testimonial, index) => (
                 <div key={index} className="bg-white p-6 rounded-lg shadow-md">
                   <p className="text-gray-600 mb-4">&quot;{testimonial.text}&quot;</p>

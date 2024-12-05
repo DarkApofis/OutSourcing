@@ -89,7 +89,7 @@ export default function ContactoPage() {
                 <ul className="space-y-2 mb-8">
                   <li><strong>Dirección:</strong> Calle Principal, 123, 28001 Madrid</li>
                   <li><strong>Teléfono:</strong> +34 900 123 456</li>
-                  <li><strong>Email:</strong> info@ferless.com</li>
+                  <li><strong>Email:</strong> info@FERELSA SAS.com</li>
                 </ul>
                 <div className="relative h-64 rounded-lg overflow-hidden">
                   <Image

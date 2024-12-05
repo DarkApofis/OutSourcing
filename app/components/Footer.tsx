@@ -27,7 +27,7 @@ export function Footer() {
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Contacto</h3>
-            <p>Email: info@ferless.com</p>
+            <p>Email: info@FERELSA SAS.com</p>
             <p>Teléfono: +34 900 123 456</p>
             <p>Dirección: Calle Principal, 123, 28001 Madrid</p>
           </div>
@@ -56,7 +56,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-200 pt-8 text-sm">
-          <p>&copy; 2024 Ferless. Todos los derechos reservados.</p>
+          <p>&copy; 2024 FERELSA SAS. Todos los derechos reservados.</p>
           <div className="mt-2">
             <Link href="/politica-privacidad" className="text-gray-500 hover:text-blue-600 mr-4">Política de Privacidad</Link>
             <Link href="/terminos-uso" className="text-gray-500 hover:text-blue-600">Términos de Uso</Link>

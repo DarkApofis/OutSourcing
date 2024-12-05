@@ -11,7 +11,7 @@ export function Header() {
     <header className="bg-white shadow-sm">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold text-blue-600">
-          Ferless
+          FERELSA SAS
         </Link>
         <nav className="hidden md:flex">
           <ul className="flex space-x-6">
