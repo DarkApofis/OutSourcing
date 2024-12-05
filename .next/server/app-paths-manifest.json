@@ -1,0 +1,11 @@
+{
+  "/solicitar-cotizacion/page": "app/solicitar-cotizacion/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/contacto/page": "app/contacto/page.js",
+  "/servicios/contratacion/page": "app/servicios/contratacion/page.js",
+  "/servicios/preseleccion/page": "app/servicios/preseleccion/page.js",
+  "/servicios/page": "app/servicios/page.js",
+  "/servicios/nomina/page": "app/servicios/nomina/page.js",
+  "/servicios/seleccion/page": "app/servicios/seleccion/page.js",
+  "/page": "app/page.js"
+}
